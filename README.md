@@ -108,9 +108,14 @@ password: janedoe
   "__v": 0
 }
 ```
-
+##### ALC-Microsoft-Assessment
+* Docker Engine should be installed in your machine
+* Open your terminal or shell or command prompt
+* Run the command: 'docker-compose up --build
+### Make sure port 3000 is not in use by another service.
 
 
 ### Author
 **Ahmed Abdulrazaq** - Applicant for ALCWithMicrosoft
+
 **Olajide Bolaji 'Nuel** - Software Developer at Andela
