@@ -13,24 +13,27 @@
     "demo",
     "api"
   ],
-  "author": "Bolaji Olajide 'Nuel",
+  "author": "Ahmed Abdulrazaq",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.17.1",
+    "body-parser": "^1.18.2",
     "dotenv": "^4.0.0",
-    "express": "^4.15.2",
-    "mongoose": "^4.9.6"
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7",
+    "tests": "^0.4.2"
   },
   "directories": {
     "test": "tests"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andela-bolajide/UserManager.git"
+    "url": "git+https://github.com/ibnahmadbello/ALC-Microsoft-Assessment.git"
   },
   "bugs": {
-    "url": "https://github.com/andela-bolajide/UserManager/issues"
+    "url": "https://github.com/ibnahmadbello/ALC-Microsoft-Assessment/issues"
   },
-  "homepage": "https://github.com/andela-bolajide/UserManager#readme"
+  "homepage": "https://github.com/ibnahmadbello/ALC-Microsoft-Assessment#readme"
 }
